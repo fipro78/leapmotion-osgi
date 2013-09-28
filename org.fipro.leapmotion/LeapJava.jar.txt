@@ -1,0 +1,12 @@
+You need to replace this file with the LeapJava.jar archive from the Leap Motion Developer SDK.
+
+You can download it via https://developer.leapmotion.com/ after you successfully created an account
+and signed the SDK Aggreement.
+
+Because of the SDK Agreement I am not allowed to publish contents of the SDK in any way.
+That includes of course the JAR and the DLL files. So if you cloned this repo and want to get it
+to work, you need to put the necessary files into the projects manually.
+
+You can find the LeapJava.jar file in the following folder after you downloaded and extracted the archive:
+
+LeapDeveloperKit/LeapSDK/lib/LeapJava.jar

@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: LeapMotion
+Bundle-SymbolicName: org.fipro.leapmotion
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: javax.inject;version="1.0.0"
+Require-Bundle: org.eclipse.e4.core.di;bundle-version="1.3.0"
+Bundle-ClassPath: LeapJava.jar,
+ .
+Service-Component: OSGI-INF/leapcontrollersupplier.xml
+Bundle-ActivationPolicy: lazy
+Export-Package: com.leapmotion.leap,
+ org.fipro.leapmotion

@@ -1,5 +1,10 @@
 *.class
 
+#ensure that no Leap Motion SDK fragment is committed
+LeapJava.jar
+Leap.dll
+LeapJava.dll
+
 # Package Files #
 *.jar
 *.war
