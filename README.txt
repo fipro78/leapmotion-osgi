@@ -17,4 +17,4 @@ Leap Motion SDK to the appropriate locations in the plugins. The txt files conta
 information about where to find the correct files.
 
 For more information about this plugins have a look at my blog post here:
-http://blog.vogella.com/2013/07/30/leap-motion-in-eclipse-4/
+https://vogella.com/blog/leap-motion-in-eclipse-4/
